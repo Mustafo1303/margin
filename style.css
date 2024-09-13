@@ -1,0 +1,57 @@
+body{
+    background-color: #2A5D5A;
+}
+h1{
+    background-color:#311313;
+    width: 340px;
+    margin: auto;
+    text-align: center;
+    padding: 15px;
+    color: white;
+    font-weight: bold;
+}
+.box{
+    border: 10px solid red;
+    margin: auto;
+    background-color: black;
+    height: 500px;
+    width: 900px;
+    margin: auto;
+    margin-top: 20px;
+}
+.aqua{
+    background-color: #1FE8B7;
+    width: 790px;
+    height: 180px;
+    margin: auto;
+    margin-top: 20px;
+}
+.shift{
+    background-color: #1FE8B7;
+    width: 380px;
+    height: 100px;
+    margin:20px;
+    margin-top: 30px;
+    font-size: 20px;
+    text-align: justify;
+    margin:auto;
+    padding: 1px;
+}
+.aqua2{
+    background-color: #1FE8B7;
+    width: 790px;
+    height: 180px;
+    margin: auto;
+    margin-top: 20px;
+}
+.shift2{
+    background-color: #1FE8B7;
+    width: 380px;
+    height: 100px;
+    margin:20px;
+    margin-top: 30px;
+    font-size: 20px;
+    text-align: justify;
+    margin:auto;
+    padding: 1px;
+}
